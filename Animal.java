@@ -1,11 +1,9 @@
 
 public class Animal {
 	private String nom;
-	private int abs;
-	private int ord;
-	public void seDeplacer(int x, int y) {
-		abs+=x;
-		ord+=y;
+	private Point p;
+	public class seDeplacer(int x, int y) {
+		p.translation(x,y);
 	}
 	
 	
