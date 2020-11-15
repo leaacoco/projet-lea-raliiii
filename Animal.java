@@ -5,6 +5,7 @@ public class Animal {
 	public class seDeplacer(int x, int y) {
 		p.translation(x,y);
 	}
-	
-	
 }
+	
+	
+
